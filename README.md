@@ -151,4 +151,3 @@ Deployed on NVIDIA Drive PX2 (PDK 4.1.4.0).
   ```Shell
   ./localization_test ../config/apollo_release.config ../data/testdata1/test_list.txt ../data/testdata1/image/
   ```
-
